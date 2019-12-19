@@ -1,0 +1,2 @@
+écrire la fonction ft_list_push_front qui ajoute au début de la liste un nouvel
+élément de type t_list
